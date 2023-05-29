@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Итальянский для туристов</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="menu">Меню</string>
+    <string name="learning_italian">Learning Italian</string>
+    <string name="test1">пройти тест</string>
+    <string name="dialoggood">Молодец!</string>
+    <string name="dialogbad">Попробуй еще раз</string>
+    <string name="dialogbad2">Повторить</string>
+
+    <string name="level">Уровень:</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="level5">Уровень 5</string>
+    <string name="level6">Уровень 6</string>
+    <string name="level7">Уровень 7</string>
+    <string name="level8">Уровень 8</string>
+    <string name="level9">Уровень 9</string>
+    <string name="level10">Уровень 10</string>
+    <string name="level11">Уровень 11</string>
+    <string name="level12">Уровень 12</string>
+    <string name="level13">Уровень 13</string>
+    <string name="level14">Уровень 14</string>
+    <string name="level15">Уровень 15</string>
+    <string name="level16">Уровень 16</string>
+    <string name="level17">Уровень 17</string>
+    <string name="level18">Уровень 18</string>
+    <string name="level19">Уровень 19</string>
+    <string name="level20">Уровень 20</string>
+
+    <string name="lvl1_center">Алфавит</string>
+    <string name="lvl1_text_left1">
+        \n
+        a = а\n
+        b = би\n
+        c = чи\n
+        d = ди\n
+        e = э\n
+        f = эффэ\n
+        g = джи\n
+        h = акка\n
+        i = и\n
+        l = элле\n
+        m = эммэ\n</string>
+    <string name="lvl1_text_right1">
+        \n
+        n = эннэ\n
+        o = о\n
+        p = пи\n
+        q = ку\n
+        r = эррэ\n
+        s = эссэ\n
+        t = ти\n
+        u = у\n
+        v = ву\n
+        z = дзэта\n\n</string>
+    <string name="lvl1_center2"> Гласные звуки: a, e, i, o, u;\nСогласные звуки: b, c, d, f, g, h, l, m, n, p, q, r, s, t, v, z.</string>
+
+    <string name="lvl2_center">Итальянское произношение</string>
+    <string name="lvl2_text_left1">Согласные b, f, m, p, v, n произносятся подобно русским.</string>
+    <string name="lvl2_text_right1">Перед гласными e и i согласные d и t всегда произносятся твёрдо.</string>
+    <string name="lvl2_center2">a, i, u сходны с русскими в положении под ударением - а, и, у.</string>
+
+    <string name="lvl3_center">Итальянское произношение</string>
+    <string name="lvl3_text_left1">Буквы c и g перед согласными и гласными a, o, u обозначают звук [к] и [г].</string>
+    <string name="lvl3_text_right1">Перед гласными  e и i буква c обозначает звук [ч], а буква g обозначает звук [дж].</string>
+    <string name="lvl3_center2">Сочетание букв sc перед гласными a, o, u обозначает звук [ск], а перед гласными e, i звук [щ].</string>
+
+    <string name="lvl4_center">Итальянское произношение</string>
+    <string name="lvl4_text_left1">Буква l обозначает звук средний между [л] и [ль].</string>
+    <string name="lvl4_text_right1">Согласный q употребляется только с гласной u перед гласными, образуя звук [ку].</string>
+    <string name="lvl4_center2">Согласный z произносится как [дз], если стоит в начале слова, и как [ц]  в других случаях.</string>
+
+    <string name="lvl5_center">Итальянское произношение</string>
+    <string name="lvl5_text_left1">Перед гласной i согласный s произносится как [съ].</string>
+    <string name="lvl5_text_right1">Согласный h не произносится, но слова с ним произносятся с большим нажимом.</string>
+    <string name="lvl5_center2">Сочетание gn обозначает звук [нь].\nСочетание gli обозначает звук [ль].</string>
+
+    <string name="lvl6_center">Итальянское произношение</string>
+    <string name="lvl6_text_left1">Подавляющее большинство итальянских слов имеют ударение на предпоследний слог. Иначе обозначется ударением.</string>
+    <string name="lvl6_text_right1">Разница между одинарными и двойными согласными должна звучать чётко.</string>
+    <string name="lvl6_center2">Все без исключения звуки произносятся отчётливо.</string>
+
+    <string name="lvl7_center">Личные местоимения</string>
+    <string name="lvl7_text_left1">io\ntu\nnoi\nvoi\nVoi\nlui, esso\nlei, essa\nloro\nessi\nesse</string>
+    <string name="lvl7_text_right1">я\nты\nмы\nвы\nВы\nон\nона\nони\nони(м.р)\nони(ж.р)</string>
+    <string name="lvl7_center2">Если личные местоимения выступают в роли подлежащего при глаголе, то они, как правило, опускаются.</string>
+
+    <string name="lvl8_center">Основные глаголы</string>
+    <string name="lvl8_text_left1">Essere\nAvere\nFare\nAndare\nPotere\nDare\nVolere\nVenire\nDovere\nStare</string>
+    <string name="lvl8_text_right1">быть\nиметь\nделать\nидти\nмочь\nдавать\nхотеть\nприходить\nбыть должным\nбыть</string>
+    <string name="lvl8_center2">Comprare – купить\nVendere – продавать\nPagare – платить\nCercare – искать\nMangiare – есть, питаться\nPrendere – брать, усваивать, пить\nBere – пить, выпивать, пропустить\nPortare – вести, нести, приводить, приносить, брать, взять, и т.д.\nАiutare – помогать\nViaggiare – путешествовать</string>
+
+    <string name="lvl9_center">Глаголы</string>
+    <string name="lvl9_text_left1"></string>
+    <string name="lvl9_text_right1"></string>
+    <string name="lvl9_center2">Sapere – знать\nParlare – говорить\nDire – сказать\nDiscutere – обсуждать, спорить\nEsigere – требовать\nOffrire – предлагать\nAvvertire – предупреждать\nChiedere – спрашивать, просить\nVedere – видеть\nGuardare – смотреть\nNotare – замечать\nRispondere – отвечать\nSpiegare – объяснять\nCredere – считать, верить, доверять\nCapire – понимать\nGodere – наслаждаться\nParere – казаться, предполагать\nSentire – чувствовать, слышать\nRidere – смеяться\nLeggere – читать\nSedere – сидеть</string>
+
+
+    <string name="lvl11_center">Построение предложений</string>
+    <string name="lvl11_text_left1">Подлежащее в виде местоимения можно упустить</string>
+    <string name="lvl11_text_right1">Глагол может состоять из нескольких слов</string>
+    <string name="lvl11_center2">подлежащее + (отрицание) + сказуемое + дополнение (прямое или косвенное) + обстоятельства (времени, места и тд)\n\nIo non faccio colazione alle 9.00. - Я не завтракаю в 9 часов.</string>
+
+    <string name="lvl12_center">Приветсвия</string>
+    <string name="lvl12_text_left1"></string>
+    <string name="lvl12_text_right1"></string>
+    <string name="lvl12_center2">Добрый вечер -  Buona sera -  Бона сэра\n\nПривет и пока -  Ciao - Ча’о\n\nСпасибо, до свидания -  Grazie, arrivederci - Грацие, арриведерчи\n\nДобрый день - Boun giorno - Бон джорно</string>
+
+    <string name="lvl13_center">Определения цветов</string>
+    <string name="lvl13_text_left1">Тёмный/ая\nЧёрный/ая\nСветлый/ая\nФиолетовый/ая\nСерый/ая\nОранжевый/ая\nРозовый/ая\nСиний/ая\nКоричневый/ая\nКрасный/ая\nЖёлтый/ая\nЗелёный/ая\nБелый/ая\nГолубой/ая</string>
+    <string name="lvl13_text_right1">Scuro/a\nNero/a\nChiaro/a\nViola\nGrigio/a\nArancione\nRosa\nBlu\nMarrone\nRosso/a\nGiallo/a\nVerde\nBianco/a\nAzzurro/a</string>
+    <string name="lvl13_center2"></string>
+
+    <string name="lvl14_center">Три типа вопросительных предложений</string>
+    <string name="lvl14_text_left1">Lina canta?\nCanta Lina?\nDove vive?</string>
+    <string name="lvl14_text_right1">Лина поет?\nПоет ли Лина?\nГде он живёт?</string>
+    <string name="lvl14_center2">1.Без инверсии.То есть порядок слов не меняется, а меняется только интонация.\n2.С инверсией. На первое место выносится сказуемое.\n3.С вопросительными словами (местоимениями, наречиями и прилагательными).\nВопросительные слова:\nКогда?  - Quando?  - Куандо?\nПочему? - Perche? - Перке?\nГде? - Dove? - До’вэ?\nКто? - Chi? - Ки?\nЧто? - Che cosa? - Ке ко’за?\nКак? - Come? - Ко’ме?</string>
+
+    <string name="lvl15_center">Настоящее время\nГлаголы на -ere\nпример vedere - видеть</string>
+    <string name="lvl15_text_left1">io vedo\ntu vedi\nlui/lei vede\nLei vede\nnoi vediamo\nvoi vedete\nloro vEdono</string>
+    <string name="lvl15_text_right1">я вижу\nты видишь\nон/она видит\nВы видите\nмы видим\nвы видите\nони видят</string>
+    <string name="lvl15_center2">Вместо окончания -ere в таких глаголах подставляются окончания, зависящие от того, кто это делает.</string>
+
+    <string name="lvl16_center">Настоящее время\nГлаголы на -ire\nпример aprire — открывать</string>
+    <string name="lvl16_text_left1">io apro\ntu apri\nlui/lei apre\nLei apre\nnoi apriamo\nvoi aprite\nloro aprono</string>
+    <string name="lvl16_text_right1">я открываю\nты открываешь\nон/она открывает\nВы открываете\nмы открываем\nвы открываете\nони открывают</string>
+    <string name="lvl16_center2">Вместо окончания -ire в таких глаголах подставляются окончания, зависящие от того, кто это делает.</string>
+
+    <string name="lvl18_center">Настоящее время\nГлаголы на -are\nпример lavorare - работать</string>
+    <string name="lvl18_text_left1">io lavoro\ntu lavori\nlui/lei lavora\nLei lavora\nnoi lavoriamo\nvoi lavorate\nloro lavorano</string>
+    <string name="lvl18_text_right1">я работаю\nты работаешь\nон/она работает\nВы работаете\nмы работаем\nвы работаете\nони работают</string>
+    <string name="lvl18_center2">Вместо окончания -are в таких глаголах подставляются окончания, зависящие от того, кто это делает.</string>
+
+    <string name="lvl17_center">Настоящее время\nГлаголы на -ire с добавлением суффикса -isc\nпример capire — понимать</string>
+    <string name="lvl17_text_left1">io capisco\ntu capisci\nlui/lei capisce\n\nLei capisce\nnoi capiamo\nvoi capite\nloro capiscono</string>
+    <string name="lvl17_text_right1">я понимаю\nты понимаешь\nон/она понимает\nВы понимаете\nмы понимаем\nвы понимаете\nони понимают</string>
+    <string name="lvl17_center2">Вместо окончания -ire в таких глаголах подставляются окончания, зависящие от того, кто это делает.</string>
+
+    <string name="lvl19_center">Популярные фразы</string>
+    <string name="lvl19_text_left1">1.Я не понимаю\n2.Я заблудился\n\n3.Сколько стоит билет в…\n4.Как добраться до аэропорта?\n\n5.Как добраться до гостиницы?\n\n6.Пожалуйста, Вы можете показать на карте…\n7.Столик на одного человека/двух человек, пожалуйста</string>
+    <string name="lvl19_text_right1">1.Non capisco\n2.Mi sono perso/persa\n3.Quanto costa il biglietto per…\n4.Come posso arrivare a aeroporto?\n5.Come posso arrivare a albergo?\n6.Può indicarmelo sulla cartina, per favore?\n7.Un tavolo per uno/due, per favore</string>
+    <string name="lvl19_center2"></string>
+</resources>
